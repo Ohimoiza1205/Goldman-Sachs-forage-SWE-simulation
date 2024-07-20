@@ -195,4 +195,4 @@ johnwick007:f6a0cb102c62879d397b12b62c092c06 - bluered
 
 ## Certificate
 
-![image](https://github.com/Ohimoiza1205/Goldman-Sachs-forage-SWE-simulation/blob/main/image.pdf)
+![image](https://github.com/Ohimoiza1205/Goldman-Sachs-forage-SWE-simulation/blob/56159728620089468df158c56113cb07a1d84954/image.pdf)

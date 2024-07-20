@@ -7,6 +7,7 @@
 - [Usage](#usage)
 - [Results](#results)
 - [Author](#author)
+- [Certificate](#certificate)
 
 **Subject**: Assessment of Password Policy and Recommendations for Improvement
 
@@ -191,5 +192,7 @@ johnwick007:f6a0cb102c62879d397b12b62c092c06 - bluered
 ## Author
 
 - [Ohi](https://github.com/Ohimoiza1205)
+
+## Certificate
 
 ![image](https://github.com/Ohimoiza1205/Goldman-Sachs-forage-SWE-simulation/blob/main/image.pdf)

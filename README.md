@@ -121,7 +121,7 @@ Ans: i)There is no rule regarding the minimum length of the password.
 
 Ans: i) The password must be of minimum 8 characters.
 
-ii) Minimum 2 special characters (/,#,*,... etc)  must be used in the    password.
+ii) Minimum 2 special characters (/,#,*,... etc)  must be used in the password.
 
 iii)An external Api-based tool that checks for password strength should show that the used password is strong.
 
@@ -132,9 +132,6 @@ Sincerely,
 
 Ohinoyi
 Texas Tech University '27
-
-
-Security Algorithms used:
 ```
 
 ## Requirements
@@ -195,6 +192,4 @@ johnwick007:f6a0cb102c62879d397b12b62c092c06 - bluered
 
 - [Ohi](https://github.com/Ohimoiza1205)
 
-
-
-![image](https://github.com/Robbo30/SoftwareEngineering---Goldman-Sachs/assets/152650090/f5643f8a-425b-49b6-8341-a562ee42a154)
+![image](https://github.com/Ohimoiza1205/Goldman-Sachs-forage-SWE-simulation/blob/main/image.pdf)

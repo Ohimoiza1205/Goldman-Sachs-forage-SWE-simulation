@@ -192,9 +192,7 @@ johnwick007:f6a0cb102c62879d397b12b62c092c06 - bluered
 ## Author
 
 - [Ohi](https://github.com/Ohimoiza1205)
-![Screenshot (5)](https://github.com/user-attachments/assets/1163ccb7-ad3c-46ce-a33b-19277a69a9a7)
-
+- 
 ## Certificate
-
-[image](https://github.com/user-attachments/files/16323178/Goldman-Sachs-SWE.pdf)
+![Certificate](https://github.com/user-attachments/assets/30ca2434-cf38-45c4-a38a-fcfb259f2d3f)
 

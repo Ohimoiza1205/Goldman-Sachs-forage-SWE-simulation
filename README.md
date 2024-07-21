@@ -9,6 +9,9 @@
 - [Author](#author)
 - [Certificate](#certificate)
 
+## Certificate
+![Certificate](https://github.com/user-attachments/assets/30ca2434-cf38-45c4-a38a-fcfb259f2d3f)
+
 **Subject**: Assessment of Password Policy and Recommendations for Improvement
 
 ## Memo
@@ -192,7 +195,5 @@ johnwick007:f6a0cb102c62879d397b12b62c092c06 - bluered
 ## Author
 
 - [Ohi](https://github.com/Ohimoiza1205)
-- 
-## Certificate
-![Certificate](https://github.com/user-attachments/assets/30ca2434-cf38-45c4-a38a-fcfb259f2d3f)
+
 
